@@ -3,7 +3,7 @@
 This repo contains papers (blogs) and resources that design search-oriented large language models (reasoning models). Example papers include Reinforcement Learning-Based Approaches. Feel free to open an issue if you think I missed some work!
 
 ## Methods
-### Reinforcement Learning-Based Approaches
+### Training-based Approaches
 | Time    | Title                                                                                               | Venue | Paper                                                                                                        | Code                                                       |
 |---------|-----------------------------------------------------------------------------------------------------|-------|--------------------------------------------------------------------------------------------------------------|------------------------------------------------------------|
 | 2025.06 | **R-Search: Empowering LLM Reasoning with Search via Multi-Reward Reinforcement Learning**         | arXiv | [link](https://arxiv.org/abs/2506.04185)                                                                     | [link](https://github.com/QingFei1/R-Search)               |
