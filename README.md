@@ -32,6 +32,5 @@ This repo contains papers (blogs) and resources that design search-oriented larg
 |---------|-----------------------------------------------------------------------------------------------------|-------|
 | NQ | One-hop QA      | [link](https://github.com/google-research-datasets/natural-questions) | 
 | TriviaQA | One-hop QA      | [link](https://nlp.cs.washington.edu/triviaqa/) | 
-| Musique | Multi-hop QA      | [link](
-https://github.com/StonyBrookNLP/musique) | 
+| Musique | Multi-hop QA      | [link](https://github.com/StonyBrookNLP/musique) | 
 
