@@ -2,6 +2,13 @@
 
 This repo contains papers (blogs) and resources that design search-oriented large language models (reasoning models). Example papers include Reinforcement Learning-Based Approaches. Feel free to open an issue if you think I missed some work!
 
+## Table of Contents
+
+- [Methods](#methods)
+  - [Training-based Approaches](#training-based-approaches)
+  - [Training-Free Approaches](#training-free-approaches)
+- [Datasets](#datasets)
+
 ## Methods
 ### Training-based Approaches
 | Time    | Title                                                                                               | Venue | Paper                                                                                                        | Code                                                       |
@@ -32,5 +39,8 @@ This repo contains papers (blogs) and resources that design search-oriented larg
 |---------|-----------------------------------------------------------------------------------------------------|-------|
 | NQ | One-hop QA      | [link](https://github.com/google-research-datasets/natural-questions) | 
 | TriviaQA | One-hop QA      | [link](https://nlp.cs.washington.edu/triviaqa/) | 
+| PopQA | One-hop QA      | [link](https://huggingface.co/datasets/akariasai/PopQA) | 
+| Bamboogle | Multi-hop QA      | [link](https://huggingface.co/datasets/chiayewken/bamboogle) | 
+| 2WikiMultiHopQA | Multi-hop QA      | [link](https://github.com/Alab-NII/2wikimultihop) | 
 | Musique | Multi-hop QA      | [link](https://github.com/StonyBrookNLP/musique) | 
 
