@@ -1,6 +1,6 @@
 # Awesome-Large-Search-Models
 
-- 📖 This repo contains papers (blogs) and resources that design search-oriented large language models (large reasoning models). Example papers include reinforcement learning-based methods. Feel free to open an issue if you think I missed some work!  
+- 📖 **Awesome-Large-Search-Models** contains the latest paper and blogs about **search-oriented large (reasoning) language models** (**large search models**). Example papers include reinforcement learning-based methods. This repo also has other resources like datasets and popular frameworks. Feel free to open an issue if you think I missed some work!
 - 🌟 Please consider starring us if our repo is helpful!
 
 ## Table of Contents
